@@ -14,7 +14,7 @@ def change_http_to_https_func(path_to_file,email,password):
 
     import pyautogui
     #commentaryy
-    # #i added this commentary to github. me kinda plain
+    # #i added this commentary to github. me kinda plain9
     #another push another commit. How do i figure this thing out
     #path_to_file = "/media/alex/新加卷/OBS_Recordings_T/Data_science/Python/My_python_programs/IOYU/http_to_https"
     dirname = os.path.dirname ( path_to_file )
