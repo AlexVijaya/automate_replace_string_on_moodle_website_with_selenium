@@ -13,7 +13,7 @@ def change_http_to_https_func(path_to_file,email,password):
     from selenium.webdriver.chrome.options import Options
 
     import pyautogui
-
+    #
     #path_to_file = "/media/alex/新加卷/OBS_Recordings_T/Data_science/Python/My_python_programs/IOYU/http_to_https"
     dirname = os.path.dirname ( path_to_file )
     os.chdir ( dirname )
